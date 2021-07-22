@@ -5,11 +5,13 @@ My name is Sergio, I'm a JavaScript FullStack Developer from Spain who likes to 
 
 ## Technologies
 ![](https://img.shields.io/badge/CODE-JavaScript-informational?style=flat&logo=javascript&logoColor=white) 
-
+![](https://img.shields.io/badge/CODE-Typescript-informational?style=flat&logo=typescript&logoColor=white) 
+ 
 ![](https://img.shields.io/badge/CODE-HTML5-informational?style=flat&logo=html5&logoColor=white) 
 ![](https://img.shields.io/badge/CODE-CSS3-informational?style=flat&logo=css3&logoColor=white) 
 ![](https://img.shields.io/badge/CODE-React.js-informational?style=flat&logo=react&logoColor=white) 
-
+![](https://img.shields.io/badge/CODE-Redux.js-informational?style=flat&logo=redux&logoColor=white) 
+  
 ![](https://img.shields.io/badge/CODE-Node.js-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/CODE-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
 
