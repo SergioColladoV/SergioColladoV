@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Sergio, I'm a JavaScript FullStack Developer from Spain who likes to solve problems and improve current solutions. Since I was little I have felt a great attraction for technology, I was always seeking new knowledge and ideas. I feel a great passion for developing web apps with new technologies such MERN Stack (MongoDB, Express.js, React.js, Node.JS; especially financial or business SaaS.
+My name is Sergio, I'm a JavaScript FullStack Developer from Spain who likes to solve problems and improve current solutions. Since I was little I have felt a great attraction for technology, I was always seeking new knowledge and ideas. I feel a great passion for developing web apps with new technologies such MERN Stack (MongoDB, Express.js, React.js, Node.JS) especially financial, business management apps or SaaS.
 
 
 ## Technologies
